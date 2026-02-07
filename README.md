@@ -1,7 +1,6 @@
-### Hi there, My name is Jay Gadhia 👋
-### 🔭 I’m currently pursuing a BS in Computer Science
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=346beb&width=435&lines=Hello%2C+it's+Jay+Gadhia;Software+Engineer" alt="Software Engineer"/>
+</a>
 
-I'm a entry-level software developer actively looking for internships and opportuniteis to grow my skills and knowledge.
-
-- 👯 I’m looking to collaborate on projects with fellow problem-solving engineers
-- 📫 How to reach me: Jaygadhia2004@gmail.com
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,eclipse,java,spring,js,nodejs,react,express,jenkins,cpp,cs,dotnet,html,css,notion,gherkin,matlab,docker,aws,r,pytorch,tensorflow)](https://skillicons.dev)
